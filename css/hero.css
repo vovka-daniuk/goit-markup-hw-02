@@ -1,0 +1,18 @@
+.hero {
+  background-color: #2e2f42;
+}
+.hero .hero-txt {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+.hero .hero-btn {
+  background: #4d5ae5;
+  color: #fff;
+}
+.hero .hero-btn:hover {
+  background-color: #404bbf;
+}
