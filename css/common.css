@@ -5,3 +5,6 @@ body {
   color: #434455;
   line-height: 1.5;
 }
+body ul {
+  list-style: none;
+}

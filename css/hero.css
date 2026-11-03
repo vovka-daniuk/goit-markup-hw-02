@@ -12,7 +12,11 @@
 .hero .hero-btn {
   background: #4d5ae5;
   color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  cursor: pointer;
 }
-.hero .hero-btn:hover {
+.hero .hero-btn:hover,
+.hero .hero-btn:focus {
   background-color: #404bbf;
 }
