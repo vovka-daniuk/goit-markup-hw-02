@@ -63,3 +63,6 @@
 .address .address-tel:focus {
   color: #404bbf;
 }
+address {
+  font-style: normal;
+}
