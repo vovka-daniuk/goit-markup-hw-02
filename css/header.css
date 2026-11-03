@@ -20,10 +20,10 @@
   text-decoration: none;
 }
 .nav .nav-features:hover,
-.nav .nav-features:active {
+.nav .nav-features:focus {
   color: #404bbf;
 }
-.nav .nav-features:focus {
+.nav .nav-features:active {
   color: #404bbf;
 }
 .nav .nav-team {
